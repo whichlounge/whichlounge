@@ -1,9 +1,9 @@
 whichlounge@github
 - - - - - - - - - -
 
-Host: FAST National University of Computer and Emerging Sciences 
+ FAST National University of Computer and Emerging Sciences 
 
-Location: Islamabad, Pakistan
+ Islamabad, Pakistan
 
 
 
